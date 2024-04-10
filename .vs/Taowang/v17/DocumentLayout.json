@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kodoc\\Taowang\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBD45FF-548B-EE5C-6A0D-B6DF78EA6533}|Assembly-CSharp.csproj|c:\\users\\kodoc\\documents\\github\\taowang\\assets\\foggy mountains background\\demo\\backgroundhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBD45FF-548B-EE5C-6A0D-B6DF78EA6533}|Assembly-CSharp.csproj|solutionrelative:assets\\foggy mountains background\\demo\\backgroundhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBD45FF-548B-EE5C-6A0D-B6DF78EA6533}|Assembly-CSharp.csproj|c:\\users\\kodoc\\documents\\github\\taowang\\assets\\scenes\\script\\movementinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBD45FF-548B-EE5C-6A0D-B6DF78EA6533}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\script\\movementinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackgroundHelper.cs",
+              "DocumentMoniker": "C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\Assets\\Foggy Mountains Background\\Demo\\BackgroundHelper.cs",
+              "RelativeDocumentMoniker": "Assets\\Foggy Mountains Background\\Demo\\BackgroundHelper.cs",
+              "ToolTip": "C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\Assets\\Foggy Mountains Background\\Demo\\BackgroundHelper.cs",
+              "RelativeToolTip": "Assets\\Foggy Mountains Background\\Demo\\BackgroundHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:45:51.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovementInput.cs",
+              "DocumentMoniker": "C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\Assets\\Scenes\\Script\\MovementInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Script\\MovementInput.cs",
+              "ToolTip": "C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\Assets\\Scenes\\Script\\MovementInput.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Script\\MovementInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:56:41.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
