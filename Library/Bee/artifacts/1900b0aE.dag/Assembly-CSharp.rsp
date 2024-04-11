@@ -417,7 +417,9 @@
 "Assets/Hero Knight - Pixel Art/Demo/HeroKnight.cs"
 "Assets/Hero Knight - Pixel Art/Demo/Sensor_HeroKnight.cs"
 "Assets/Mountain Background/Demo/BackgroundHelper.cs"
+"Assets/ResetScene.cs"
 "Assets/Scenes/Script/MovementInput.cs"
+"Assets/SpawnFloor.cs"
 -langversion:9.0
 
 /deterministic

@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDBD45FF-548B-EE5C-6A0D-B6DF78EA6533}|Assembly-CSharp.csproj|c:\\users\\kodoc\\documents\\github\\taowang\\assets\\foggy mountains background\\demo\\backgroundhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBD45FF-548B-EE5C-6A0D-B6DF78EA6533}|Assembly-CSharp.csproj|solutionrelative:assets\\foggy mountains background\\demo\\backgroundhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDBD45FF-548B-EE5C-6A0D-B6DF78EA6533}|Assembly-CSharp.csproj|c:\\users\\kodoc\\documents\\github\\taowang\\assets\\resetscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBD45FF-548B-EE5C-6A0D-B6DF78EA6533}|Assembly-CSharp.csproj|solutionrelative:assets\\resetscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBD45FF-548B-EE5C-6A0D-B6DF78EA6533}|Assembly-CSharp.csproj|C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\assets\\spawnfloor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBD45FF-548B-EE5C-6A0D-B6DF78EA6533}|Assembly-CSharp.csproj|solutionrelative:assets\\spawnfloor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBD45FF-548B-EE5C-6A0D-B6DF78EA6533}|Assembly-CSharp.csproj|c:\\users\\kodoc\\documents\\github\\taowang\\assets\\hero knight - pixel art\\demo\\sensor_heroknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBD45FF-548B-EE5C-6A0D-B6DF78EA6533}|Assembly-CSharp.csproj|solutionrelative:assets\\hero knight - pixel art\\demo\\sensor_heroknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDBD45FF-548B-EE5C-6A0D-B6DF78EA6533}|Assembly-CSharp.csproj|c:\\users\\kodoc\\documents\\github\\taowang\\assets\\scenes\\script\\movementinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BackgroundHelper.cs",
-              "DocumentMoniker": "C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\Assets\\Foggy Mountains Background\\Demo\\BackgroundHelper.cs",
-              "RelativeDocumentMoniker": "Assets\\Foggy Mountains Background\\Demo\\BackgroundHelper.cs",
-              "ToolTip": "C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\Assets\\Foggy Mountains Background\\Demo\\BackgroundHelper.cs",
-              "RelativeToolTip": "Assets\\Foggy Mountains Background\\Demo\\BackgroundHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T14:45:51.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MovementInput.cs",
               "DocumentMoniker": "C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\Assets\\Scenes\\Script\\MovementInput.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\Script\\MovementInput.cs",
               "ToolTip": "C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\Assets\\Scenes\\Script\\MovementInput.cs",
               "RelativeToolTip": "Assets\\Scenes\\Script\\MovementInput.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T13:56:41.925Z",
+              "WhenOpened": "2024-04-11T13:42:50.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sensor_HeroKnight.cs",
+              "DocumentMoniker": "C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\Assets\\Hero Knight - Pixel Art\\Demo\\Sensor_HeroKnight.cs",
+              "RelativeDocumentMoniker": "Assets\\Hero Knight - Pixel Art\\Demo\\Sensor_HeroKnight.cs",
+              "ToolTip": "C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\Assets\\Hero Knight - Pixel Art\\Demo\\Sensor_HeroKnight.cs",
+              "RelativeToolTip": "Assets\\Hero Knight - Pixel Art\\Demo\\Sensor_HeroKnight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:24:18.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResetScene.cs",
+              "DocumentMoniker": "C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\Assets\\ResetScene.cs",
+              "RelativeDocumentMoniker": "Assets\\ResetScene.cs",
+              "ToolTip": "C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\Assets\\ResetScene.cs",
+              "RelativeToolTip": "Assets\\ResetScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:33:10.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpawnFloor.cs",
+              "DocumentMoniker": "C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\Assets\\SpawnFloor.cs",
+              "RelativeDocumentMoniker": "Assets\\SpawnFloor.cs",
+              "ToolTip": "C:\\Users\\kodoc\\Documents\\GitHub\\Taowang\\Assets\\SpawnFloor.cs",
+              "RelativeToolTip": "Assets\\SpawnFloor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:04:57.097Z",
               "EditorCaption": ""
             }
           ]
